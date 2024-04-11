@@ -9,8 +9,8 @@ public class herencia {
         emple.getNombre();
 
         consultor consul =  new consultor();
-        consul.nombre_consultor;
-        
+        consul.getNombre_consultor();
+
     } 
 
 }
